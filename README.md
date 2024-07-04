@@ -1,4 +1,4 @@
 # Auto-Rental-Hub
 This oops based project to rent a car.
-It various pillors of OOPS with Java
+It uses various pillors of OOPS with Java
 
